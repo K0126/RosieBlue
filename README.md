@@ -1,6 +1,4 @@
-I had to upload this to my own profile, as the developer only provided me with the JSON file, not the GitHub link. 
+This is an edited version of RosieBlue, using YouBlue Theme. 
 
-Here's install link below if you want to install RosieDark theme on Enmity or Bunny
-
-[Link](https://raw.githubusercontent.com/K0126/RosieDark/refs/heads/main/RosieDark.json)
+[Download](https://raw.githubusercontent.com/K0126/RosieBlue/refs/heads/main/RosieBlue.json)
 
